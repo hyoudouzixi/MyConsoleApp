@@ -1,0 +1,14 @@
+C:\Users\tonyw\MyApp\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.exe
+C:\Users\tonyw\MyApp\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.deps.json
+C:\Users\tonyw\MyApp\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.runtimeconfig.json
+C:\Users\tonyw\MyApp\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.dll
+C:\Users\tonyw\MyApp\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\tonyw\MyApp\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonyw\MyApp\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tonyw\MyApp\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\tonyw\MyApp\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tonyw\MyApp\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.dll
+C:\Users\tonyw\MyApp\MyConsoleApp\obj\Debug\net8.0\refint\MyConsoleApp.dll
+C:\Users\tonyw\MyApp\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\tonyw\MyApp\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\tonyw\MyApp\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
